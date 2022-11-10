@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ADK-Linux Rescue
+GenericName=rescue adk-linux
+Comment=Mount and Arch-chroot Your ADK-Linux System
+Icon=adk-live-rescue
+Exec=/usr/bin/adk-linux_rescue.sh
+Terminal=true
+Categories=System;Live;ConsoleOnly;
+Keywords=system;process;task;arch-chroot
